@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Faisal Aldhafeeri
+#### I am a Software Developer - Full Stack 
+![I am a Software Developer - Full Stack ](![github](/163.jpg))
 
-<!--
-**n8tu/n8tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I received my bachelor's degree in computer science from King Saudi University. A self-taught programmer My passion is website development, with a focus on the backend.
 
-Here are some ideas to get you started:
+Skills: Python / Javascript / Java / PHP / HTML / CSS / Springboot / Django  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning [ MongoDB - Express - React - Node ] 
+- 📫 How to reach me: FaisaLz.Nj@gmail.com 
+- ⚡ Fun fact: I just knew Github :) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/n8tu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faisal-aldhafeeri-939236194/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n8tu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=n8tu)  
+
+![Profile views](https://gpvc.arturio.dev/n8tu)  
