@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Faisal Aldhafeeri
 #### I am a Software Developer - Full Stack 
-![I am a Software Developer - Full Stack ](![github](/163.jpg))
+![I am a Software Developer - Full Stack ](https://i.postimg.cc/FzfxkcN8/163.jpg)
 
 I received my bachelor's degree in computer science from King Saudi University. A self-taught programmer My passion is website development, with a focus on the backend.
 
