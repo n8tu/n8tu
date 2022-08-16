@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Faisal Aldhafeeri
 #### I am a Software Developer - Full Stack 
 
-[<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width: 100%;">]
+<img src="https://github.com/n8tu/n8tu/blob/main/banner.png" alt="Hello world" style="max-width: 100%;">
 I received my bachelor's degree in computer science from King Saudi University. A self-taught programmer My passion is website development, with a focus on the backend.
 
 Skills: Python / Javascript / Java / PHP / HTML / CSS / Springboot / Django  
