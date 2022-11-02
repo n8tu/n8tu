@@ -17,8 +17,8 @@ Frameworks:
 - Laravel
 
 
-- 📫 How to reach me: FaisaLz.Nj@gmail.com 
-- ⚡ Fun fact: I just knew Github :) 
+📫 How to reach me: FaisaLz.Nj@gmail.com 
+⚡ Fun fact: I just knew Github :) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/n8tu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faisal-aldhafeeri-939236194/)  
