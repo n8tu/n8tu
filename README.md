@@ -4,9 +4,19 @@
 <img src="https://github.com/n8tu/n8tu/blob/main/banner.png" alt="Hello world" style="max-width: 100%;">
 I received my bachelor's degree in computer science from King Saudi University. A self-taught programmer My passion is website development, with a focus on the backend.
 
-Skills: Python / Javascript / Java / PHP / HTML / CSS / Springboot / Django  
+Programming Languages: 
+- Python 
+- Javascript
+- Java
+- PHP 
 
-- 🌱 I’m currently learning [ MongoDB - Express - React - Node ] 
+Frameworks: 
+- Django
+- Express
+- Spring
+- Laravel
+
+
 - 📫 How to reach me: FaisaLz.Nj@gmail.com 
 - ⚡ Fun fact: I just knew Github :) 
 
